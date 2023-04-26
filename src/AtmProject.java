@@ -1,5 +1,9 @@
 public class AtmProject {
 
+    //Stashing Command:working space ve staging area ada iken henuz commit edilmeyen degisiklikleri gecicimolarak
+    //geri alinmasi islemi stashing command ile yapilr
+
+
     public static void main(String[] args) {
 
         System.out.println("This is an ATM project");
@@ -14,6 +18,10 @@ public class AtmProject {
         //version tuna1
         System.out.println("I wrote some codes");
         //tuna2
+
+        System.out.println("amendmend");
+        //tuna3
+
     }
 
 }
