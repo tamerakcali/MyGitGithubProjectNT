@@ -8,6 +8,8 @@ public class AtmProject {
  //version2
         System.out.println("Learn java earn money");
         //version3
+        System.out.println("To learn git is too easy");
+        //version4
     }
 
 }
