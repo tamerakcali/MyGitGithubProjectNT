@@ -19,8 +19,9 @@ public class AtmProject {
         System.out.println("I wrote some codes");
         //tuna2
 
-        System.out.println("amendmend");
+        System.out.println("amendment");
         //tuna3
+        System.out.println();
 
     }
 
